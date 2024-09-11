@@ -1,4 +1,4 @@
-# Crowdstrike Attack Graph PBI Report
+# Attack Graph Model PBI Report
 
 ## Overview
 
