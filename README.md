@@ -9,8 +9,7 @@ This repository contains the Power BI file for the Crowdstrike Attack Graphs vis
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
+- [API Token](#api-token)
 
 ## Getting Started
 
